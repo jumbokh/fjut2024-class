@@ -1,3 +1,4 @@
+### [reference](https://github.com/jumbokh/fjut2024-class/blob/main/ppt/Question.md)
 # fjut2024-class
 ### ![QR](https://github.com/jumbokh/fjut2024-class/blob/main/images/bigdata.jpg)
 ### ![行事曆](https://github.com/jumbokh/fjut2024-class/blob/main/images/%E5%A4%A7%E6%95%B8%E6%93%9A-2024.png)
